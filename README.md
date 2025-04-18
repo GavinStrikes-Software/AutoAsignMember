@@ -1,6 +1,6 @@
 # Discord Member Role Bot
 
-A Discord bot that automatically assigns the member role to new users when they join a specific server.
+A Simple Discord bot that automatically assigns the member role to new users when they join a specific server.
 
 ## Setup Instructions
 
