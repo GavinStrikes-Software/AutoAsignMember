@@ -9,8 +9,8 @@ const client = new Client({
 });
 
 
-const TARGET_SERVER_ID = '1028337299441864806';
-const MEMBER_ROLE_ID = '1028339629075742750';
+const TARGET_SERVER_ID = 'SERVERID';
+const MEMBER_ROLE_ID = 'ROLEID';
 
 
 client.once('ready', () => {
