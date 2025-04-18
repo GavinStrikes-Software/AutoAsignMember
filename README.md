@@ -18,7 +18,8 @@ npm install
 3. Configure the bot:
    - Open `index.js`
    - Replace `token` with your bot's token
-   - The server ID and role ID are already configured
+   - Replace `TARGET_SERVER_ID` with your server's ID
+   - Replace `MEMBER_ROLE_ID` with your member role's ID
 
 4. Invite the bot to your server:
    - Go to the OAuth2 section in the Developer Portal
@@ -31,9 +32,8 @@ npm install
 npm start
 ```
 
-
 ## Requirements
 
 - Node.js
 - npm
-- Discord.js v14 
+- Discord.js v14
